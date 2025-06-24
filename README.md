@@ -1,9 +1,5 @@
-<!-- Animated Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3500&pause=1000&color=4E9AF1&center=true&vCenter=true&width=900&lines=Welcome+to+Mysterio-O's+GitHub!;Mindful.+Creative.+Inspired." alt="Typing Banner"/>
-</p>
-<p align="center">
-  <img src="https://svgshare.com/i/16QF.svg" width="100%" alt="Animated Waves Banner"/>
 </p>
 
 # 💫 About Me:
@@ -15,11 +11,10 @@ I’m eager to use animations, so I use different libraries like Motion, Reactbi
 </p>
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Sheikh Rabbii)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Sheikh Rabbi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mysterio)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Sheikh Rabbi)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@string talks)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sheikh.rabbi.1800)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rabbi_723?igsh=OGxoNWl5djVrZWFo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sk-maruf-hossain-9586a5334?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@stringtalks6?si=WWcEP6lbnPxilRc7)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:skrabbi.019@gmail.com) 
 
 # 💻 Tech Stack:
