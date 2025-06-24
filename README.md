@@ -19,7 +19,11 @@ I’m eager to use animations, so I use different libraries like Motion, Reactbi
 
 # 💻 Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,express,nodejs,mongodb,firebase,bootstrap,tailwind,vercel,netlify,figma,git,github,npm,vite,redux,jwt,semrush,linux,vscode" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,express,nodejs,mongodb,firebase,bootstrap,tailwind,vercel,netlify,figma,git,github,npm,vite,jwt,vscode" alt="Tech Stack Icons" />
+  <!-- Framer Motion -->
+  <img src="https://raw.githubusercontent.com/framer/logos/main/svgs/framer-motion.svg" alt="Framer Motion" width="42" height="42" title="Framer Motion" style="margin-left:6px;vertical-align:middle;"/>
+  <!-- AI logo (OpenAI) -->
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" alt="AI" width="42" height="42" title="AI" style="margin-left:6px;vertical-align:middle;"/>
 </p>
 
 ---
@@ -28,7 +32,6 @@ I’m eager to use animations, so I use different libraries like Motion, Reactbi
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mysterio-O&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mysterio-O&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mysterio-O&theme=react&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ## 🏆 GitHub Trophies
@@ -48,9 +51,6 @@ I’m eager to use animations, so I use different libraries like Motion, Reactbi
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Mysterio-O&icon=4&color=6" alt="Profile Visits"/>
-</p>
 
 <!-- Subtle animated accent with a dancing emoji gif for a touch of fun! -->
 <p align="center">
