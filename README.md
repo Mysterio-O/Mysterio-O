@@ -20,10 +20,6 @@ I’m eager to use animations, so I use different libraries like Motion, Reactbi
 # 💻 Tech Stack:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,express,nodejs,mongodb,firebase,bootstrap,tailwind,vercel,netlify,figma,git,github,npm,vite,jwt,vscode" alt="Tech Stack Icons" />
-  <!-- Framer Motion -->
-  <img src="https://raw.githubusercontent.com/framer/logos/main/svgs/framer-motion.svg" alt="Framer Motion" width="42" height="42" title="Framer Motion" style="margin-left:6px;vertical-align:middle;"/>
-  <!-- AI logo (OpenAI) -->
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" alt="AI" width="42" height="42" title="AI" style="margin-left:6px;vertical-align:middle;"/>
 </p>
 
 ---
