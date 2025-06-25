@@ -49,13 +49,11 @@ function aboutMe() {
 
 ---
 
-#### ∞ contributions in the this year
+#### ∞ contributing like this almost everyday..
 
 | <img src="https://raw.githubusercontent.com/nilfalse/nilfalse/master/contributions.gif" alt="Contributions" width="722px" height="112px" /> |
 | ------------------------------------------------------------------------------------------------------------------------------------------- |
 
-
-[Learn how we count contributions](https://nilfalse.com/)
 
 
 ---
@@ -89,8 +87,6 @@ function aboutMe() {
 
 ---
 
-
-<!-- Subtle animated accent with a dancing emoji gif for a touch of fun! -->
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/>
 </p>
