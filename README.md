@@ -7,9 +7,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3500&pause=1000&color=4E9AF1&center=true&vCenter=true&width=900&lines=Welcome+to+Mysterio-O's+GitHub!;Mindful.+Creative.+Inspired." alt="Typing Banner"/>
 </p>
 
-# 💫 About Me:
+# 💫 About Mysterio:
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1200&color=4E9AF1&center=true&vCenter=true&width=650&height=180&lines=I+am+currently+working+with+React+and+TailwindCSS;Serve+Backend+with+Express+and+MongoDB;And+Firebase+for+authentication.;Mainly+focused+on+frontend.;Learning+backend+as+well.;Eager+to+use+animations.;Usually+use+Motion%2CReactBits%2CAcernity+and+others." alt="About Me Animated Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1200&color=4E9AF1&center=true&vCenter=true&width=650&height=180&lines=I+am+currently+working+with+React+and+TailwindCSS;Serve+Backend+with+Express+and+MongoDB;And+Firebase+for+authentication.;Mainly+focused+on+frontend.;Learning+backend+as+well.;Eager+to+use+animations.;Usually+use+Motion%2CReactBits%2CAcernity+and+others.;Exploring+NextJs+nowadays.;Wish+to+learn+pyhton+in+following+days." alt="About Me Animated Typing" />
 </p>
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5iM3R4dTQyODZkOGQwM2hrcDNyamNjdWhlZnlscnB5d3p0bjlkeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding Animation" />
@@ -17,7 +17,6 @@
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sheikh.rabbi.1800)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rabbi_723?igsh=OGxoNWl5djVrZWFo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sk-maruf-hossain-9586a5334?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@stringtalks6?si=WWcEP6lbnPxilRc7)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:skrabbi.019@gmail.com) 
