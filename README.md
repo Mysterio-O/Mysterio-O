@@ -3,9 +3,9 @@
 </p>
 
 # 💫 About Me:
-I am currently working with React, Express, MongoDB, and Firebase for authentication.<br/>
-Mainly focused on frontend, learning backend as well.<br/>
-I’m eager to use animations, so I use different libraries like Motion, Reactbits, and others.<br/><br/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=4E9AF1&center=true&vCenter=true&multiline=true&width=700&height=110&lines=I+am+currently+working+with+React%2C+Express%2C+MongoDB%2C+and+Firebase+for+authentication.;Mainly+focused+on+frontend%2C+learning+backend+as+well.;I%E2%80%99m+eager+to+use+animations%2C+so+I+use+different+libraries+like+Motion%2C+Reactbits%2C+and+others." alt="About Me Animated Typing" />
+</p>
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5iM3R4dTQyODZkOGQwM2hrcDNyamNjdWhlZnlscnB5d3p0bjlkeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding Animation" />
 </p>
