@@ -4,11 +4,8 @@
 
 # 💫 About Me:
 <p align="center">
-  <img src="./about-me-typing.svg" alt="About Me Animated Typing" />
-</p>
-<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1200&color=4E9AF1&center=true&vCenter=true&width=650&height=180&lines=I+am+currently+working+with+React+and+TailwindCSS;Serve+Backend+with+Express+and+MongoDB;And+Firebase+for+authentication.;Mainly+focused+on+frontend.;Learning+backend+as+well.;Eager+to+use+animations.;Usually+use+Motion%2CReactBits%2CAcernity+and+others." alt="About Me Animated Typing" />
-</p> -->
+</p>
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5iM3R4dTQyODZkOGQwM2hrcDNyamNjdWhlZnlscnB5d3p0bjlkeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding Animation" />
 </p>
