@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="650" height="180">
+  <style>
+    .text { font-family: 'Fira Mono', 'Fira Code', 'Consolas', monospace; font-size: 22px; fill: #4E9AF1; }
+    .hide { opacity: 0; }
+    .show { opacity: 1; }
+  </style>
+  <rect width="100%" height="100%" fill="#00000000"/>
+  <text id="t1" class="text show" x="24" y="48">I am currently working with React and TailwindCSS</text>
+  <text id="t2" class="text hide" x="24" y="48">Serve Backend with Express and MongoDB</text>
+  <text id="t3" class="text hide" x="24" y="48">And Firebase for authentication.</text>
+  <text id="t4" class="text hide" x="24" y="48">Mainly focused on frontend.</text>
+  <text id="t5" class="text hide" x="24" y="48">Learning backend as well.</text>
+  <text id="t6" class="text hide" x="24" y="48">Eager to use animations.</text>
+  <text id="t7" class="text hide" x="24" y="48">Usually use Motion, ReactBits, Acernity and others.</text>
+  <script type="application/ecmascript">
+  <![CDATA[
+    const showDuration = 2000; // ms per line
+    const fadeDuration = 400;  // ms fade transition (not used here for simplicity)
+    let current = 1;
+    function showLine(n) {
+      for (let i = 1; i <= 7; i++) {
+        const el = document.getElementById('t' + i);
+        if (el) el.setAttribute('class', 'text' + (i === n ? ' show' : ' hide'));
+      }
+    }
+    function animate() {
+      showLine(current);
+      if (current < 7) {
+        setTimeout(() => {
+          current += 1;
+          animate();
+        }, showDuration);
+      }
+    }
+    animate();
+  ]]>
+  </script>
+</svg>
