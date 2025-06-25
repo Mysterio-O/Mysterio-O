@@ -4,7 +4,7 @@
 	<br>
 </div>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3500&pause=1000&color=4E9AF1&center=true&vCenter=true&width=900&lines=Welcome+to+Mysterio-O's+GitHub!;Mindful.+Creative.+Inspired." alt="Typing Banner"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3500&pause=1000&color=4E9AF1&center=true&vCenter=true&width=900&lines=Explore+Mysterio-O's+GitHub!;Mindful.+Creative.+Inspired.;Active+Comitter+Learner" alt="Typing Banner"/>
 </p>
 
 # 💫 About Mysterio:
@@ -37,11 +37,12 @@ function aboutMe() {
     Database: ["Firebase", "MongoDB"],
     Editors: ["Vscode"],
     Platforms: ["Mac", "Windows"],
-    OtherTools: ["Git", "Figma", "Photoshop", "Gimp", "Lightroom"]
+    OtherTools: ["Git", "Figma", "Photoshop", "Gimp", "Lightroom", "Postman", "handlebrake"]
   };
 
   return myTools;
 }
+aboutMe();
 
 ```
 ---
