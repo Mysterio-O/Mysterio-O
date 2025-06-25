@@ -24,15 +24,24 @@ I’m eager to use animations, so I use different libraries like Motion, Reactbi
 
 ---
 
-## 📊 GitHub Stats:
+#### ∞ contributions in the this year
+
+| <img src="https://raw.githubusercontent.com/nilfalse/nilfalse/master/contributions.gif" alt="Contributions" width="722px" height="112px" /> |
+| ------------------------------------------------------------------------------------------------------------------------------------------- |
+
+
+[Learn how we count contributions](https://nilfalse.com/)
+
+
+---
+
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Mysterio-O&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Mysterio-O&theme=ambient_gradient&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mysterio-O&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mysterio-O&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mysterio-O&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p> -->
+
 
 ## 🏆 GitHub Trophies
 <p align="center">
