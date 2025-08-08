@@ -72,8 +72,7 @@ aboutMe();
   <div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 2rem;">
     <!-- Streak Stats -->
      <img width="390" 
-         src="https://streak-stats.demolab.com/?user=Mysterio-O&theme=default&border=61dafb&hide_border=true&include_all_commits=true&card_width=390&include_private=true&cache_seconds=86400" 
-         onerror="this.onerror=null;this.src='https://github-readme-streak-stats.vercel.app/?user=Mysterio-O&theme=default'" 
+         src="https://github-readme-streak-stats.herokuapp.com/?user=Mysterio-O&theme=graywhite&border=61dafb&hide_border=true&include_all_commits=true&card_width=390&include_private=true" 
          alt="GitHub Streak" />
     <!-- Profile Stats -->
     <img width="390"
