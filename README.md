@@ -88,19 +88,9 @@ const hisSuperPower = Mysterio?.MySuperPower;
   <div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 2rem;">
     <!-- Streak Stats -->
      <picture>
-  <source id="streak-dark" media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Mysterio-O&theme=dark" />
-  <img id="streak-light" src="https://streak-stats.demolab.com/?user=Mysterio-O&theme=graywhite" alt="GitHub Streak" onerror="handleImageError(this)" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=Mysterio-O&theme=dark" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Mysterio-O&theme=graywhite" alt="GitHub Streak" />
 </picture>
-<script>
-function handleImageError(img) {
-  // Check if the image is for dark theme (source tag) or light theme (img tag)
-  if (img.id === 'streak-light') {
-    img.src = 'https://github-readme-streak-stats-eight.vercel.app/?user=Mysterio-O&theme=graywhite';
-  } else if (img.parentNode.querySelector('#streak-dark')) {
-    img.parentNode.querySelector('#streak-dark').srcset = 'https://github-readme-streak-stats-eight.vercel.app/?user=Mysterio-O&theme=dark';
-  }
-}
-</script>
     <!-- Profile Stats -->
     <img width="390"
          src="https://github-readme-stats.vercel.app/api?username=Mysterio-O&show_icons=true&theme=swift" 
