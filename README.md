@@ -91,7 +91,6 @@ const hisSuperPower = Mysterio?.MySuperPower;
   <source id="streak-dark" media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Mysterio-O&theme=dark" />
   <img id="streak-light" src="https://streak-stats.demolab.com/?user=Mysterio-O&theme=graywhite" alt="GitHub Streak" onerror="handleImageError(this)" />
 </picture>
-
 <script>
 function handleImageError(img) {
   // Check if the image is for dark theme (source tag) or light theme (img tag)
