@@ -32,18 +32,34 @@
 
 function aboutMe() {
   const myTools = {  
-    ProgramingLanguages: ["JavaScript"],
+    ProgrammingLanguages: ["JavaScript"],
     OtherLanguages: ["HTML", "CSS", "Bash", "Json", "Markdown"],
     Database: ["Firebase", "MongoDB"],
-    Technologies: ["React", "TailwindCSS", "UI Components", "Motion", "AOS", "NextJs", "Firebase", "Node", "Express", "MongoDB"],
+    Technologies: [
+      {frontEnd:{"React", "TailwindCSS", "UI Components", "NextJs"}},
+      {animation: { "Motion", "AOS", "Lottie-React", "ReactBits"}},
+      {authentication: {"Firebase", "Custom Auth"}},
+      {backend: {"Node", "Express", "MongoDB", "JWT", "Firebase Admin", "Cors"}},
+      {paymentGateway: {"Stripe", "SSLCOMMERZ"}}
+    ],
     Editors: ["Vscode"],
     Platforms: ["Mac", "Windows"],
-    OtherTools: ["Git", "Figma", "Photoshop", "Gimp", "Lightroom", "Postman", "handlebrake"]
+    OtherTools: ["Git", "Figma", "Postman", "Handlebrake", "ThunderClient"],
+    MySuperPower: [
+      ...ProgrammingLanguages,
+       ...OtherLanguages,
+        ...Database,
+         ...Technologies,
+          ...Editors,
+           ...Platforms,
+            ...OtherTools
+            ]
   };
 
   return myTools;
 }
-aboutMe();
+const Mysterio = aboutMe();
+const hisSuperPower = Mysterio?.MySuperPower;
 
 ```
 ---
