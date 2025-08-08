@@ -71,8 +71,8 @@ aboutMe();
   <!-- Vertical Stack Layout -->
   <div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 2rem;">
     <!-- Streak Stats -->
-    <img width="390" 
-         src="https://streak-stats.demolab.com/?user=Mysterio-O&theme=react&border=61dafb&hide_border=true&include_all_commits=true&card_width=390&include_private=true" 
+     <img width="390" 
+         src="https://streak-stats.demolab.com/?user=Mysterio-O&theme=custom&title_color=000000&text_color=000000&bg_color=F7F7F7&border_color=F2F2F2&hide_border=false&include_all_commits=true&include_private=true" 
          alt="GitHub Streak" />
     <!-- Profile Stats -->
     <img width="390"
