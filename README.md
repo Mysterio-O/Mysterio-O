@@ -23,7 +23,7 @@
 
 # 💻 Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,express,nodejs,mongodb,firebase,bootstrap,tailwind,vercel,netlify,figma,git,github,npm,vite,jwt,vscode" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,express,nodejs,mongodb,firebase,bootstrap,tailwind,vercel,netlify,figma,git,github,npm,vite,vscode,postman" alt="Tech Stack Icons" />
 </p>
 
 ---
@@ -68,34 +68,39 @@ aboutMe();
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <p align="center">
-  
-  <!-- Stats Row -->
-  <div align="center">
-    <!-- Streak Stats (with fallback settings) -->
-    <img align="left" width="390" 
+  <!-- Vertical Stack Layout -->
+  <div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 2rem;">
+    <!-- Streak Stats -->
+    <img width="390" 
          src="https://streak-stats.demolab.com/?user=Mysterio-O&theme=react&border=61dafb&hide_border=true&include_all_commits=true&card_width=390&include_private=true" 
          alt="GitHub Streak" />
     <!-- Profile Stats -->
-    <img align="right" width="390"
-         src="https://github-readme-stats.vercel.app/api?username=Mysterio-O&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="GitHub Stats" />
-  </div>
-
-  <br clear="both"><br>
-
-  <!-- Bottom Section -->
-  <div align="center">
+    <img width="390"
+         src="https://github-readme-stats.vercel.app/api?username=Mysterio-O&show_icons=true&theme=swift" 
+         alt="GitHub Stats" />
     <!-- Top Languages -->
     <img height="200" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mysterio-O&layout=compact&theme=react&hide_border=true&border_color=61dafb&bg_color=20232a"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mysterio-O&layout=compact&theme=swift"
          alt="Top Languages" />
+    <!-- Activity Graph -->
+    <img width="100%" 
+         src="https://github-readme-activity-graph.vercel.app/graph?username=Mysterio-O&theme=react-dark&hide_border=true&bg_color=20232a"
+         alt="Activity Graph" />
   </div>
-  
-  <!-- Activity Graph -->
-  <img width="100%" 
-       src="https://github-readme-activity-graph.vercel.app/graph?username=Mysterio-O&theme=react-dark&hide_border=true&bg_color=20232a" />
 </p>
 
 <hr>
+
+---
+
+## Pinned Repository
+
+<div align="center">
+    <a href="https://github.com/Mysterio-O/react-setup-pro">
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Mysterio-O&repo=react-setup-pro&theme=chartreuse-dark&border_color=#61dafb&show_owner=true" />
+    </a>
+</div>
+
 
 
 ## 🏆 GitHub Trophies
