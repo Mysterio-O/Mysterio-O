@@ -71,9 +71,10 @@ aboutMe();
   <!-- Vertical Stack Layout -->
   <div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 2rem;">
     <!-- Streak Stats -->
-     <img width="390" 
-         src="https://github-readme-streak-stats.herokuapp.com/?user=Mysterio-O&theme=graywhite&border=61dafb&hide_border=true&include_all_commits=true&card_width=390&include_private=true" 
-         alt="GitHub Streak" />
+     <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Mysterio-O&theme=dark" />
+  <img src="https://streak-stats.demolab.com/?user=Mysterio-O&theme=graywhite" alt="GitHub Streak" />
+</picture>
     <!-- Profile Stats -->
     <img width="390"
          src="https://github-readme-stats.vercel.app/api?username=Mysterio-O&show_icons=true&theme=swift" 
