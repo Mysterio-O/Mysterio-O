@@ -75,11 +75,9 @@ aboutMe();
     <img align="left" width="390" 
          src="https://streak-stats.demolab.com/?user=Mysterio-O&theme=react&border=61dafb&hide_border=true&include_all_commits=true&card_width=390&include_private=true" 
          alt="GitHub Streak" />
-    
     <!-- Profile Stats -->
     <img align="right" width="390"
-         src="https://github-readme-stats.vercel.app/api?username=Mysterio-O&show_icons=true&theme=react&border_color=61dafb&hide_border=true"
-         alt="GitHub Stats" />
+         src="https://github-readme-stats.vercel.app/api?username=Mysterio-O&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="GitHub Stats" />
   </div>
 
   <br clear="both"><br>
