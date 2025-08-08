@@ -72,7 +72,7 @@ aboutMe();
   <div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 2rem;">
     <!-- Streak Stats -->
      <img width="390" 
-         src="https://streak-stats.demolab.com/?user=Mysterio-O&theme=graywhite&include_all_commits=true&include_private=true" 
+         src="https://streak-stats.demolab.com/?user=Mysterio-O&theme=graywhite&border=61dafb&hide_border=true&include_all_commits=true&card_width=390&include_private=true" 
          alt="GitHub Streak" />
     <!-- Profile Stats -->
     <img width="390"
