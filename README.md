@@ -21,10 +21,44 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@stringtalks6?si=WWcEP6lbnPxilRc7)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:skrabbi.019@gmail.com) 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,express,nodejs,mongodb,firebase,bootstrap,tailwind,shadcn,motion,redux,python,vercel,netlify,figma,git,github,npm,vite,vscode,postman" alt="Tech Stack Icons" />
+  <!-- Core -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
+
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?logo=radixui&logoColor=white" alt="shadcn/ui" />
+  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?logo=framer&logoColor=white" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" alt="Bootstrap" />
+
+  <!-- Backend & DB -->
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" alt="Firebase" />
+
+  <!-- Tools & DevOps -->
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white" alt="NPM" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman" />
+
+  <!-- Hosting & Design -->
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white" alt="Netlify" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma" />
 </p>
+
 
 ---
 ```javaScript
