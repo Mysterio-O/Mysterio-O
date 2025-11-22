@@ -23,7 +23,7 @@
 
 # 💻 Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,express,nodejs,mongodb,firebase,bootstrap,tailwind,vercel,netlify,figma,git,github,npm,vite,vscode,postman" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,express,nodejs,mongodb,firebase,bootstrap,tailwind,shadcn,motion,redux,python,vercel,netlify,figma,git,github,npm,vite,vscode,postman" alt="Tech Stack Icons" />
 </p>
 
 ---
@@ -32,11 +32,11 @@
 
 function aboutMe() {
   const myTools = {  
-    ProgrammingLanguages: ["JavaScript"],
-    OtherLanguages: ["HTML", "CSS", "Bash", "Json", "Markdown"],
+    ProgrammingLanguages: ["JavaScript", "HTML", "CSS", "Python"],
+    OtherLanguages: ["Bash", "Json", "Markdown"],
     Database: ["Firebase", "MongoDB"],
     Technologies: [
-      {frontEnd:{"React", "TailwindCSS", "UI Components", "NextJs"}},
+      {frontEnd:{"React", "TailwindCSS", "UI Components", "NextJs", "ShadCn", "Redux"}},
       {animation: { "Motion", "AOS", "Lottie-React", "ReactBits"}},
       {authentication: {"Firebase", "Custom Auth"}},
       {backend: {"Node", "Express", "MongoDB", "JWT", "Firebase Admin", "Cors"}},
