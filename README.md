@@ -129,11 +129,11 @@ const hisSuperPower = Mysterio?.MySuperPower;
 </picture>
     <!-- Profile Stats -->
     <img width="390"
-         src="https://github-readme-stats.vercel.app/api?username=Mysterio-O&show_icons=true&theme=swift" 
+         src="https://github-readme-stats-mysterio.vercel.app/api?username=Mysterio-O&show_icons=true&theme=swift" 
          alt="GitHub Stats" />
     <!-- Top Languages -->
     <img height="200" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mysterio-O&layout=compact&theme=swift"
+         src="https://github-readme-stats-mysterio.vercel.app/api/top-langs/?username=Mysterio-O&layout=compact&theme=swift"
          alt="Top Languages" />
     <!-- Activity Graph -->
     <img width="100%" 
