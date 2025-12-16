@@ -45,6 +45,9 @@
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
+
 
   <!-- Tools & DevOps -->
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />
@@ -70,15 +73,15 @@ function aboutMe() {
   const myTools = {  
     ProgrammingLanguages: ["JavaScript", "HTML", "CSS", "Python", "Typescript"],
     OtherLanguages: ["Bash", "Json", "Markdown"],
-    Database: ["Firebase", "MongoDB"],
+    Database: ["Firebase", "MongoDB","NeonDB"],
     Technologies: [
       {frontEnd:{"React", "TailwindCSS", "UI Components", "NextJs", "ShadCn", "Redux"}},
       {animation: { "Motion", "AOS", "Lottie-React", "ReactBits"}},
       {authentication: {"Firebase", "Custom Auth"}},
-      {backend: {"Node", "Express", "MongoDB", "JWT", "Firebase Admin", "Cors"}},
+      {backend: {"Node", "Express", "Postgresql", "NeonDB", "MongoDB", "JWT", "Firebase Admin", "Cors"}},
       {paymentGateway: {"Stripe", "SSLCOMMERZ"}}
     ],
-    Editors: ["Vscode"],
+    Editors: ["Visual Code Studio", "Beekeeper Studio"],
     Platforms: ["Mac", "Windows"],
     OtherTools: ["Git", "Figma", "Postman", "Handlebrake", "ThunderClient"],
     MySuperPower: [
