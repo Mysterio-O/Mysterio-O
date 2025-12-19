@@ -73,7 +73,7 @@ function aboutMe() {
   const myTools = {  
     ProgrammingLanguages: ["JavaScript", "HTML", "CSS", "Python", "Typescript"],
     OtherLanguages: ["Bash", "Json", "Markdown"],
-    Database: ["Firebase", "MongoDB","NeonDB"],
+    Database: ["Firebase", "MongoDB", "NeonDB"],
     Technologies: [
       {frontEnd:{"React", "TailwindCSS", "UI Components", "NextJs", "ShadCn", "Redux"}},
       {animation: { "Motion", "AOS", "Lottie-React", "ReactBits"}},
