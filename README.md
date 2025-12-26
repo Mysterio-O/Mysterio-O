@@ -78,7 +78,7 @@ function aboutMe() {
       {frontEnd:{"React", "TailwindCSS", "UI Components", "NextJs", "ShadCn", "Redux"}},
       {animation: { "Motion", "AOS", "Lottie-React", "ReactBits"}},
       {authentication: {"Firebase", "Custom Auth"}},
-      {backend: {"Node", "Express", "Postgresql", "NeonDB", "MongoDB", "JWT", "Firebase Admin", "Cors"}},
+      {backend: {"Node", "Express", "Postgresql", "NeonDB", "Prisma", "MongoDB", "JWT", "Firebase Admin", "Cors"}},
       {paymentGateway: {"Stripe", "SSLCOMMERZ"}}
     ],
     Editors: ["Visual Code Studio", "Beekeeper Studio"],
