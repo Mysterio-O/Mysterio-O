@@ -75,7 +75,7 @@ function aboutMe() {
     OtherLanguages: ["Bash", "Json", "Markdown"],
     Database: ["Firebase", "MongoDB", "NeonDB"],
     Technologies: [
-      {frontEnd:{"React", "TailwindCSS", "UI Components", "NextJs", "ShadCn", "Redux"}},
+      {frontEnd:{"React", "TailwindCSS", "UI Components", "NextJs", "ShadCn", "Redux", "PWA"}},
       {animation: { "Motion", "AOS", "Lottie-React", "ReactBits"}},
       {authentication: {"Firebase", "Custom Auth"}},
       {backend: {"Node", "Express", "Postgresql", "NeonDB", "Prisma", "MongoDB", "JWT", "Firebase Admin", "Cors"}},
