@@ -77,7 +77,7 @@ function aboutMe() {
     Technologies: [
       {frontEnd:{"React", "TailwindCSS", "UI Components", "NextJs", "ShadCn", "Redux", "PWA"}},
       {animation: { "Motion", "AOS", "Lottie-React", "ReactBits"}},
-      {authentication: {"Firebase", "Custom Auth"}},
+      {authentication: {"Firebase", "Custom Auth", "Better-Auth"}},
       {backend: {"Node", "Express", "Postgresql", "NeonDB", "Prisma", "MongoDB", "JWT", "Firebase Admin", "Cors"}},
       {paymentGateway: {"Stripe", "SSLCOMMERZ"}}
     ],
