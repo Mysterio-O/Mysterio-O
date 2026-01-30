@@ -73,12 +73,12 @@ function aboutMe() {
   const myTools = {  
     ProgrammingLanguages: ["JavaScript", "HTML", "CSS", "Python", "Typescript"],
     OtherLanguages: ["Bash", "Json", "Markdown"],
-    Database: ["Firebase", "MongoDB", "NeonDB", "Postgres"],
+    Database: ["Firebase", "MongoDB", "NeonDB", "Postgres", "Supabase"],
     Technologies: [
-      {frontEnd:{"React", "TailwindCSS", "UI Components", "NextJs", "ShadCn", "Redux", "PWA"}},
+      {frontEnd:{"React", "TailwindCSS", "UI Components", "NextJs", "ShadCn", "Redux", "PWA", "Supabase"}},
       {animation: { "Motion", "AOS", "Lottie-React", "ReactBits"}},
       {authentication: {"Firebase", "Custom Auth", "Better-Auth"}},
-      {backend: {"Node", "Express", "Postgresql", "NeonDB", "Prisma", "MongoDB", "JWT", "Firebase Admin", "Cors"}},
+      {backend: {"Node", "Express", "Postgresql", "Supabase", "NeonDB", "Prisma", "MongoDB", "JWT", "Firebase Admin", "Cors"}},
       {paymentGateway: {"Stripe", "SSLCOMMERZ"}}
     ],
     Editors: ["Visual Code Studio", "Beekeeper Studio"],
