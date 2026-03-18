@@ -72,7 +72,7 @@
 
 function aboutMe() {
   const myTools = {  
-    ProgrammingLanguages: ["JavaScript", "HTML", "CSS", "Python", "Typescript"],
+    ProgrammingLanguages: ["JavaScript", "HTML", "CSS", "Python", "Typescript", "PlpgSQL"],
     OtherLanguages: ["Bash", "Json", "Markdown"],
     Database: ["Firebase", "MongoDB", "NeonDB", "Postgres", "Supabase"],
     Technologies: [
