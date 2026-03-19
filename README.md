@@ -92,7 +92,8 @@ function aboutMe() {
          ...Technologies,
           ...Editors,
            ...Platforms,
-            ...OtherTools
+            ...OtherTools,
+             ...AI_DRIVEN_DEVELOPMENT
             ]
   };
 
