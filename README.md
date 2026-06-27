@@ -77,7 +77,7 @@ function aboutMe() {
     Database: ["Firebase", "MongoDB", "NeonDB", "Postgres", "Supabase"],
     Technologies: [
       {frontEnd:{"React", "TailwindCSS", "UI Components", "NextJs", "ShadCn", "Redux", "PWA", "Supabase"}},
-      {animation: { "Motion", "AOS", "Lottie-React", "ReactBits"}},
+      {animation: { "Motion", "AOS", "Lottie-React", "ReactBits", "GSAP"}},
       {authentication: {"Firebase", "Custom Auth", "Better-Auth"}},
       {backend: {"Node", "Express", "Postgresql", "Supabase", "NeonDB", "Prisma", "MongoDB", "JWT", "Firebase Admin", "Cors"}},
       {paymentGateway: {"Stripe", "SSLCOMMERZ"}}
